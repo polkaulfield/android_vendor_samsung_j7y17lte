@@ -2,7 +2,7 @@
 
 NVRAMRev=$Rev: 498373 $
 sromrev=11
-ccode=GB
+ccode=ALL
 vendid=0x14e4
 devid=0x43ab
 manfid=0x2d0
