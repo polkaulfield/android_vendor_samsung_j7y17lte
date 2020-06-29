@@ -55,9 +55,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7y17lte/proprietary/vendor/etc/Tfa9896.cnt:$(TARGET_COPY_OUT_VENDOR)/etc/Tfa9896.cnt \
     vendor/samsung/j7y17lte/proprietary/vendor/etc/init/sec.android.hardware.nfc@1.2-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/sec.android.hardware.nfc@1.2-service.rc \
     vendor/samsung/j7y17lte/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
-    vendor/samsung/j7y17lte/proprietary/vendor/etc/libnfc-sec-hal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sec-hal.conf \
     vendor/samsung/j7y17lte/proprietary/vendor/etc/libnfc-sec-vendor.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sec-vendor.conf \
-    vendor/samsung/j7y17lte/proprietary/vendor/etc/libnfc-sec.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sec.conf \
     vendor/samsung/j7y17lte/proprietary/vendor/etc/nfc/sec_s3nrn81_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/nfc/sec_s3nrn81_rfreg.bin \
     vendor/samsung/j7y17lte/proprietary/vendor/etc/wifi/bcmdhd_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/j7y17lte/proprietary/vendor/etc/wifi/bcmdhd_apsta.bin_blob:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_apsta.bin_blob \
